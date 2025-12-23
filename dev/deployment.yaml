@@ -14,7 +14,7 @@ spec:
     spec:
       containers:
       - name: dev-container
-        image: us-east1-docker.pkg.dev/my-project-id/my-repository/sample-app:v1.0
+        image: ast1-docker.pkg.dev/my-project-id/my-repository/sample-app:v1.0
 
         ports:
         - containerPort: 8080
